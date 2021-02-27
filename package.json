@@ -21,7 +21,7 @@
     "nice-color-palettes": "^1.0.1",
     "object-assign": "^4.0.1",
     "quad-indices": "^2.0.1",
-    "three-buffer-vertex-data": "dmarcos/three-buffer-vertex-data#69378fc58daf27d3b1d930df9f233473e4a4818c"
+    "three-buffer-vertex-data": "https://github.com/dmarcos/three-buffer-vertex-data#69378fc58daf27d3b1d930df9f233473e4a4818c"
   },
   "devDependencies": {
     "bluebird": "^2.9.14",
